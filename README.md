@@ -1,1 +1,1 @@
-https://rolling-scopes-school.github.io/estatelelashvili-JSFEEN2022/
+https://estatelelashvili.github.io/test-news-api/index.html
